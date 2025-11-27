@@ -1,7 +1,7 @@
 {
   "name": "@quicksuite/form-to-json",
-  "version": "0.1.0",
-  "description": "HTML Form \u2192 JSON converter with automatic type parsing and syntax-highlighted output. Part of QuickSuite ecosystem.",
+  "version": "0.1.1",
+  "description": "HTML Form → JSON converter with automatic type parsing and syntax-highlighted output. Part of QuickSuite ecosystem.",
   "author": "Burak Karakaya",
   "license": "MIT",
   "repository": {
