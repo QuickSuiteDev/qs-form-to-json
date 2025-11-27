@@ -1,0 +1,28 @@
+{
+  "name": "@quicksuite/form-to-json",
+  "version": "0.1.0",
+  "description": "HTML Form \u2192 JSON converter with automatic type parsing and syntax-highlighted output. Part of QuickSuite ecosystem.",
+  "author": "Burak Karakaya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuickSuiteDev/qs-form-to-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuickSuiteDev/qs-form-to-json/issues"
+  },
+  "homepage": "https://github.com/QuickSuiteDev/qs-form-to-json#readme",
+  "main": "index.js",
+  "module": "index.js",
+  "type": "module",
+  "keywords": [
+    "quicksuite",
+    "form",
+    "html",
+    "parser",
+    "json",
+    "formdata",
+    "converter",
+    "devtool"
+  ]
+}
