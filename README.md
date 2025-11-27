@@ -48,6 +48,9 @@ Part of the **QuickSuite Developer Toolkit Ecosystem**: https://quicksuite.dev
 - 🔌 **Framework‑friendly**  
   Returns a cleanup function that removes listeners, DOM and styles — ideal for SPA frameworks.
 
+- 🪶 **Zero dependencies**  
+  No runtime dependencies — easy to drop into any front‑end stack.
+
 ---
 
 ## 📦 Installation
@@ -167,6 +170,18 @@ export default {
   - `FormData`
   - `navigator.clipboard`
 - If `navigator.clipboard` is not available (older browsers / insecure contexts), the **COPY** button falls back to a manual copy prompt.
+
+---
+
+## 🔁 Versioning & Changelog
+
+This project follows **semantic versioning**:
+
+- **MAJOR**: breaking changes
+- **MINOR**: new features, backwards compatible
+- **PATCH**: bug fixes and small improvements
+
+Changelog entries are managed per GitHub release. Each tag (`vX.Y.Z`) should include a short summary of changes.
 
 ---
 
